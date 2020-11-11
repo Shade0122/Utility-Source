@@ -1,4 +1,14 @@
-https://mega.nz/file/cIxHTAgI#MLOIy9Q7F4NUp0WoWD650meLpPY6GZ7RAdqdQJmUGmU
+https://mega.nz/file/JQ4yXQga#MRwG8ct15h4xZrlHn4Y8BsGwSEOOzTX2mqETt0mQoVk
 
-^^^^
-Head over for the latest version
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+v1.5
+
+Update Log:
+[*] Added resizing
+[*] Added 2 more scripts to the Script Hub: Reviz Admin/Infinite Yield
+[*] Added 2 more games to the Game Hub: Dream Topia/KAT
+[*] Removed "Exit Save Warning"
+[*] Added another Utility Lua pre-made script: Remotes
+[*] Improved loading speed for Utility
+[*] You are now able to place Utility inside of your taskbar and desktop screen
+[*] Removed the folder "script_data" for more space inside of the "bin" folder
