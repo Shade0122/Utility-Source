@@ -1,2 +1,0 @@
-local amount = 9999999999999
-game:GetService("ReplicatedStorage").ServerStats.ChangeMoney:FireServer(amount, math.floor(math.sqrt(game.ReplicatedStorage.ServerStats.CurrentID.Value)) + 1337)
