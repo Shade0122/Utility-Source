@@ -1,5 +1,0 @@
-local money = 999999999999999999999999999999999999999999999
-game:GetService("ReplicatedStorage").money:FireServer(money)
-
-local Role = "Choosing" --Choosing | Parent | Baby
-workspace.TeamEvents.TeamEvent:FireServer(Role)
